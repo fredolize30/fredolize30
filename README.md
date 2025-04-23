@@ -1,4 +1,3 @@
-<h1 align="center">Hey Everyone 👋, I'm Wilfred George</h1>
 
 <div align="center">
   <img src="https://github.com/fredolize30/fredolize30/blob/main/Green%20Simple%20Manager%20LinkedIn%20Banner%20(1).png" alt="Fredolize30 Banner">
